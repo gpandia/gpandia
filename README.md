@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Gokul Pandian C- @gpandia
-- 👀 I’m interested in Python- Data Science, Web development
-- 🌱 I’m currently learning Pandas
-- 💞️ I’m looking to collaborate on Data Science and AI, ML related technologies.
+- 👀 I’m interested in Python- Data Science, Web development and Cyber Security.
 - 📫 How to reach me- 
-  Mobile: 9952224877
+  Mobile: +91 9952224877
   Email: gokulcofficial@gmail.com
 
 <!---
