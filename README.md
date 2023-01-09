@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gokul Pandian C- @gpandia
-- 👀 I’m interested in Python- Data Science, Web development and Cyber Security.
+- 👀 I’m interested in Web development and Cyber Security.
 - 📫 How to reach me- 
-  Mobile: +91 9952224877
   Email: gokulcofficial@gmail.com
 
 <!---
